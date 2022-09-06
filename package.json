@@ -1,11 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "Project to follow along the FreeCodeCamp Backend Development and APIs certification course",
-	"keywords": [ "freecodecamp", "course", "backend", "API" ],
+	"keywords": [
+		"freecodecamp",
+		"course",
+		"backend",
+		"API"
+	],
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "1.1.0"
+		"@freecodecamp/example": "1.1.0",
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -13,7 +18,7 @@
 	},
 	"author": "Julio Morales",
 	"license": "MIT",
-  	"repository": {
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/jamorales11/boilerplate-npm.git"
 	}
