@@ -8,7 +8,7 @@
 		"start": "node server.js"
 	},
 	"author": "Julio Morales",
-  "repository": {
+  	"repository": {
 		"type": "git",
 		"url": "https://github.com/jamorales11/boilerplate-npm.git"
 	}
