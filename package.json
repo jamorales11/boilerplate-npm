@@ -10,6 +10,7 @@
 		"start": "node server.js"
 	},
 	"author": "Julio Morales",
+	"license": "MIT",
   	"repository": {
 		"type": "git",
 		"url": "https://github.com/jamorales11/boilerplate-npm.git"
