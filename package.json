@@ -7,9 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-  "author": "Julio Morales",
-	"repository": {
+	"author": "Julio Morales",
+  "repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/jamorales11/boilerplate-npm.git"
 	}
 }
